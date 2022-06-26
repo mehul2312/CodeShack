@@ -1,1 +1,3 @@
-# CodeShack
+# CODESHACK SUMMER OF CODE
+
+GROUP W-15
